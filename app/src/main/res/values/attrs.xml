@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TopSlidingTabs">
+        <attr name="tstIndicatorColor" format="color" />  <!-- 指示器的颜色 -->
+        <attr name="tstIndicatorHeight" format="dimension" />  <!-- 指示器的高度 -->
+        <attr name="tstIsShowUnderline" format="boolean" /> <!-- 是否显示底部分隔线 -->
+        <attr name="tstUnderlineColor" format="color" />  <!-- 底部分隔线的颜色 -->
+        <attr name="tstUnderlineHeight" format="dimension" />  <!-- 底部分隔线的高度 -->
+        <attr name="tstVerticalPadding" format="dimension" />  <!-- 容器的上下内边距 -->
+        <attr name="tstHorizontalTabMargin" format="dimension" />  <!-- tab选项的左右边距 -->
+        <attr name="tstScrollOffset" format="dimension" />  <!-- 滚动时的偏移量 -->
+        <attr name="tstIsSelectedBold" format="boolean" />  <!-- 选中项是否要加粗 -->
+        <attr name="tstIsSelectedCenter" format="boolean" />  <!-- 选中项是否要居中 -->
+    </declare-styleable>
+
+
+
+</resources>
